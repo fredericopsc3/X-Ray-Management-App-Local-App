@@ -7,7 +7,7 @@ A desktop application for managing dental X-ray images with automated detection 
 This project is part of the final year project for the Computer Engineering degree at UFP, academic year 2024/2025.
 Links to other parts of the project:
 AI model training: [link]
-Web application: [link]
+Web application: [https://github.com/fredericopsc3/X-Ray-Management-App-Web-App]
 
 This project serves solely as an example of a Laravel-based web application for dental X-ray management with artificial intelligence. It is important to note that the AI used in this project is for demonstration purposes only and should not be used in production without evaluation by qualified specialists.
 
